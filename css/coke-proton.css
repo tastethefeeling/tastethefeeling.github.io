@@ -61,7 +61,7 @@ a img {
 }
 
 #footer p:first-child {
-	background: url('https://cocacola021025.github.io/img/coke-circle.png') 15px 0 no-repeat;
+	background: url('https://cocacola021025.github.io/img/coke-circle.svg') 15px 0 no-repeat;
 	padding: 0 0 0 100px;
 	border: 0;
 	width: 180px;
@@ -404,7 +404,8 @@ ul#userinfo_minor a:hover {
 	display: block;
 	height: 120px;
 	background: transparent url('https://cocacola021025.github.io/img/coke-proton-header-logo-rounded.svg') no-repeat top left;
-	margin-right: 5px;
+	margin-right: -10px;
+	margin-right: -5px;
 }
 
 #menu ul,
