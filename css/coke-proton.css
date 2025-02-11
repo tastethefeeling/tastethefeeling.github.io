@@ -404,8 +404,8 @@ ul#userinfo_minor a:hover {
 	display: block;
 	height: 120px;
 	background: transparent url('https://cocacola021025.github.io/img/coke-proton-header-logo.svg') no-repeat top left;
-	margin-left: 15px;
-	margin-top: 10px;
+	margin-right: 5px;
+/* 	margin-top: 10px; */
 }
 
 #menu ul,
