@@ -1,0 +1,14 @@
+#logo a {
+	display: block;
+	height: 120px;
+	background: transparent url('https://ptpimg.me/mn01i8.png') no-repeat top left;
+	margin-left: -28px;
+	margin-top: -18px;
+}
+
+#footer p:first-child {
+	background: url('https://ptpimg.me/mn01i8.png') 15px 0 no-repeat;
+	padding: 0 0 0 130px;
+	border: 0;
+	width: 180px;
+}
