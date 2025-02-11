@@ -10,7 +10,7 @@ body {
 a,
 a:visited,
 a:active {
-	color: #007dc6;
+	color: #b63537;
 	text-decoration: none;
 }
 
@@ -296,7 +296,7 @@ ul#userinfo_username li a.username {
 }
 
 ul#userinfo_username li a.username:hover {
-	background-color: #007dc6;
+	background-color: #b63537;
 	color: #e6e6e6;
 }
 
@@ -321,7 +321,7 @@ ul#userinfo_stats li a {
 
 .alertbar {
 	font-weight: normal;
-	background-color: #007dc6;
+	background-color: #b63537;
 	padding: 3px 5px;
 }
 
@@ -361,7 +361,7 @@ ul#userinfo_stats li a {
 }
 
 ul#userinfo_stats li span.stat {
-	color: #007dc6;
+	color: #b63537;
 	margin-right: 2px;
 }
 
@@ -375,7 +375,7 @@ ul#userinfo_minor a:hover {
 }
 
 #menu a:hover {
-	background-color: #007dc6;
+	background-color: #b63537;
 	color: #e6e6e6;
 }
 
@@ -491,7 +491,7 @@ ul#userinfo_username {
 }
 
 #searchbars ul li ul li.highlight {
-	background-color: #007DC6;
+	background-color: #b63537;
 	color: #fff;
 }
 
@@ -602,7 +602,7 @@ table {
 
 #content table .colhead a:hover,
 #content table .colhead_dark a:hover {
-	color: #007dc6;
+	color: #b63537;
 }
 
 #vanityhouse {
@@ -973,7 +973,7 @@ strong.quoteheader {
 }
 
 .tags a:hover {
-	color: #007dc6;
+	color: #b63537;
 }
 
 #content form.search_form + .torrent_table {
@@ -1061,7 +1061,7 @@ tr.torrent .bookmark > a:after {
 
 #torrent_table tr.group_torrent td span a,
 .torrent_table tr.group_torrent td span a {
-	color: #007dc6;
+	color: #b63537;
 }
 
 #torrent_table tr.group_torrent td span a:hover,
@@ -1077,7 +1077,7 @@ tr.torrent .bookmark > a:after {
 
 #torrent_table tr.group_torrent a:hover,
 .torrent_table tr.group_torrent a:hover {
-	color: #007dc6;
+	color: #b63537;
 }
 
 #torrents #content .center .box form div input[type="text"],
@@ -1936,7 +1936,7 @@ div.box[style=""] .head {
 #forums img[width="500"] {
 	width: 100%;
 	height: 100%;
-	border-right: 5px #007DC6 solid;
+	border-right: 5px #b63537 solid;
 	cursor: pointer;
 	margin: 2px auto;
 }
