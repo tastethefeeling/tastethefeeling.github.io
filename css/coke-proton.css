@@ -62,14 +62,14 @@ a img {
 
 #footer p:first-child {
 	background: url('https://cocacola021025.github.io/img/coke-circle.svg') 15px 0 no-repeat;
-	padding: 0 0 0 100px;
+	padding: 0 0 0 85px;
 	border: 0;
-	width: 180px;
+	width: 150px;
 }
 
 #footer p:last-child {
 	margin: 0;
-	width: 295px;
+	width: 600px;
 }
 
 #footer a {
