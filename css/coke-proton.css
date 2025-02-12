@@ -51,7 +51,7 @@ a img {
 	height: 36px;
 	border-left: 1px solid #6f6f6f;
 	margin: 0 20px 0 0;
-	padding: 0 0 0 20px;
+	padding: 0 0 0 28px;
 	display: table-cell;
 	vertical-align: middle;
 }
@@ -64,7 +64,7 @@ a img {
 	background: url('https://cocacola021025.github.io/img/coke-circle.svg') 15px 0 no-repeat;
 	padding: 0 0 0 85px;
 	border: 0;
-	width: 150px;
+	width: 200px;
 }
 
 #footer p:last-child {
@@ -331,7 +331,7 @@ ul#userinfo_stats li a {
 }
 
 .alertbar:hover {
-	background-color: #575757;
+	background-color: #0070b7;
 }
 
 .alertbar:first-of-type {
